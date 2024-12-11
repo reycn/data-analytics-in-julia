@@ -25,8 +25,8 @@ Because of its speed.
    1. ✅ Common parametric tests (t-tests and ANOVA)
    2. ✅ Regression (multi-variate regression and fixed effects models)
    3. 🚧 Path Analysis
-      1. 🚧 Mediation
-      2. 🚧 Moderation
+      1. ✅ Mediation
+      2. ✅ Moderation
       3. 🚧 Conditional Path Analysis
 - [🚧 Chapter 5.2 Models and tests (continued)](https://reynards-org.gitbook.io/data-analysis-in-julia/5.2.models.jl)
   
