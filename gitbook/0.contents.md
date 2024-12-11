@@ -13,6 +13,7 @@ Because of its speed.
 - [✅ Chapter 1. Installation](https://reynards-org.gitbook.io/data-analysis-in-julia/1.installation.basics)
   - How to install Julia
   - How to install Julia as a Jupyter kernal for notebooks
+  - The basics of operations, data structures, packages, methods, and define functions
 - [✅ Chapter 2. Data Loading and Selection](https://reynards-org.gitbook.io/data-analysis-in-julia/2.data.loading.selection.jl)
   - Load a dataframe from a local file, an online link, and a common datasets; or create it from scratch
   - Select by rows, columns, and conditions.
