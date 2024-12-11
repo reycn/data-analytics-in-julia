@@ -4,9 +4,18 @@ import shutil
 import nbformat
 from nbconvert import MarkdownExporter
 
+
 # Step 1: Copy ./READ.ME.md to ./gitbook
-if not os.path.exists("./gitbook"):
-    os.makedirs("./gitbook")
+def clean_gitbook_directory(directory):
+    if os.path.exists(directory):
+        shutil.rmtree(directory)
+    os.makedirs(directory)
+
+
+# Step 0: Clean all existing files in ./gitbook
+gitbook_dir = "./gitbook"
+clean_gitbook_directory(gitbook_dir)
+
 # Step 2: Copy all contents under ./notebooks into ./gitbook
 notebooks_dir = "./notebooks"
 gitbook_dir = "./gitbook"
@@ -46,4 +55,9 @@ for root, dirs, files in os.walk(gitbook_dir):
 
 # Step 4. Copy readme
 
-shutil.copy("./README.md", "./gitbook/outline.md")
+shutil.copy("./README.md", "./gitbook/0.contents.md")
+with open(file_path, "r", encoding="utf-8") as f:
+    content = f.read()
+content = content.replace("notebook/", "./")
+with open(file_path, "w", encoding="utf-8") as f:
+    f.write(content)
