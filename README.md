@@ -7,7 +7,7 @@ Because of its speed.
 
 # Outline
 
-- [✅ Chapter 1. Installation](notebooks/1.installation.md)
+- [✅ Chapter 1. Installation](notebooks/1.installation.basics.md)
   - How to install Julia
   - How to install Julia as a Jupyter kernal for notebooks
 - [✅ Chapter 2. Data Loading and Selection](notebooks/2.data.loading.selection.jl.ipynb)
