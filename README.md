@@ -10,7 +10,7 @@ Because of its speed.
 
 # Outline
 
-- [✅ Chapter 1. Installation](https://reynards-org.gitbook.io/data-analysis-in-julia/1.installation.basics)
+- [✅ Chapter 1. Installation](https://reynards-org.gitbook.io/data-analysis-in-julia/1.installation.basics.jl)
   - How to install Julia
   - How to install Julia as a Jupyter kernal for notebooks
   - The basics of operations, data structures, packages, methods, and define functions
