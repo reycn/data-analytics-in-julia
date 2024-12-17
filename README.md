@@ -1,4 +1,4 @@
-# Data Analytics in Julia
+# Data Analytics in Julia [[🔗 Book](https://data-julia.rongxin.me)]
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 By [Rongxin Ouyang](rongxin.me/cv), PhD student in Computational Communication, NUS
