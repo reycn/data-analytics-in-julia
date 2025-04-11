@@ -1,7 +1,6 @@
-# Data Analytics in Julia [[🔗 Book](https://data-julia.rongxin.me)]
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
-By [Rongxin Ouyang](https://rongxin.me/cv), PhD student in Computational Communication, NUS
+# Data Analytics in Julia
+- **[🔗 Read the book online](https://data-julia.rongxin.me)**
+- By [**Rongxin Ouyang**](https://rongxin.me/cv), PhD student in Computational Communication, NUS
 
 ## Scope
 This short book provides a practical guide for data analysis in social science using Julia. It replicates common analytical steps in the field.
