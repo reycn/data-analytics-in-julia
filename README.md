@@ -13,32 +13,32 @@ Because of its speed.
 
 ## Outline
 
-- [✅ Chapter 1. Installation](https://reynards-org.gitbook.io/data-analysis-in-julia/1.installation.basics.jl)
+- [✅ Chapter 1. Installation](https://data-julia.rongxin.me/data-analysis-in-julia/1.installation.basics.jl)
   - ✅ Why do we need Julia
   - ✅ How to install Julia
   - ✅ How to install Julia as a Jupyter kernal for notebooks
   - ✅ The basics of operations, data structures, packages, methods, and define functions
-- [✅ Chapter 2. Data Loading and Selection](https://reynards-org.gitbook.io/data-analysis-in-julia/2.data.loading.selection.jl)
+- [✅ Chapter 2. Data Loading and Selection](https://data-julia.rongxin.me/data-analysis-in-julia/2.data.loading.selection.jl)
   - ✅ Load a dataframe from a local file, an online link, and a common datasets; or create it from scratch
   - ✅ Select by rows, columns, and conditions.
-- [✅ Chapter 3. Transformation and calculation](https://reynards-org.gitbook.io/data-analysis-in-julia/3.transform.calculate.jl)
+- [✅ Chapter 3. Transformation and calculation](https://data-julia.rongxin.me/data-analysis-in-julia/3.transform.calculate.jl)
   - ✅ Split and combine
   - ✅ Grouping
   - ✅ Sorting
   - ✅ Transforming between long / wide tables
   - ✅ Find / fill / drop missing values
-- [✅ Chapter 4. Pipeline and Useful Packages](https://reynards-org.gitbook.io/data-analysis-in-julia/4.pipeline.tools.jl)
+- [✅ Chapter 4. Pipeline and Useful Packages](https://data-julia.rongxin.me/data-analysis-in-julia/4.pipeline.tools.jl)
   - ✅ Data pipeline
   - ✅ Manipulate strings
   - ✅ Network
-- [✅ Chapter 5.1 Models and Tests](https://reynards-org.gitbook.io/data-analysis-in-julia/5.1.models.jl)
+- [✅ Chapter 5.1 Models and Tests](https://data-julia.rongxin.me/data-analysis-in-julia/5.1.models.jl)
    1. ✅ Common parametric tests (t-tests and ANOVA)
    2. ✅ Regression (multi-variate regression and fixed effects models)
    3. ✅ Path Analysis
       1. ✅ Mediation
       2. ✅ Moderation
       3. ✅ Conditional Path Analysis
-- [✅ Chapter 5.2 Models and Tests (continued)](https://reynards-org.gitbook.io/data-analysis-in-julia/5.2.models.jl)
+- [✅ Chapter 5.2 Models and Tests (continued)](https://data-julia.rongxin.me/data-analysis-in-julia/5.2.models.jl)
   
    1. 🚧 / ✅ Counterfactual Framework
       1. 🚧 / ✅ Instrumental Variables
@@ -46,20 +46,20 @@ Because of its speed.
       3. 🚧 / ✅ Difference-in-Difference
       4. 🚧 / ✅ Synthetic Control
       5. 🚧 / ✅ Synthetic Difference-in-Difference
-- [✅ Chapter 6. Visualization](https://reynards-org.gitbook.io/data-analysis-in-julia/6.visualize.jl) (ggplot2-like)
+- [✅ Chapter 6. Visualization](https://data-julia.rongxin.me/data-analysis-in-julia/6.visualize.jl) (ggplot2-like)
   - ✅ Scatterplot, barplot, lineplot, and histogram
   - ✅ Styles and themes
   - ✅ Multiple-plots in facets
 
-- [✅ Chapter 7. Using R and Python in Julia](https://reynards-org.gitbook.io/data-analysis-in-julia/7.r.and.python.in.julia.jl)
+- [✅ Chapter 7. Using R and Python in Julia](https://data-julia.rongxin.me/data-analysis-in-julia/7.r.and.python.in.julia.jl)
   - ✅ Using R functions and R code blocks in Julia
   - ✅ Using Python functions and Python code blocks in Julia
 
-- [✅ Chapter 8. Performance Optimization](https://reynards-org.gitbook.io/data-analysis-in-julia/8.performance.jl)
+- [✅ Chapter 8. Performance Optimization](https://data-julia.rongxin.me/8.performance.jl)
   - ✅ Tips for increasing the speed
   - ✅ Profiling tool and visualization
 
-- [✅ Appendix. Codes for plotting](https://reynards-org.gitbook.io/data-analysis-in-julia/notebooks/8.plot.and.notebooks.md)
+- [✅ Appendix. Codes for plotting](https://data-julia.rongxin.me/8.plot.and.notebooks)
   - ✅ All codes used for plotting
 
 
