@@ -3,12 +3,12 @@
 
 By [Rongxin Ouyang](https://rongxin.me/cv), PhD student in Computational Communication, NUS
 
-# Scope
+## Scope
 This short book provides a practical guide for data analysis in social science using Julia. It replicates common analytical steps in the field.
 
 Because of its speed.
 
-# Outline
+## Outline
 
 - [✅ Chapter 1. Installation](https://reynards-org.gitbook.io/data-analysis-in-julia/1.installation.basics.jl)
   - ✅ Why do we need Julia
@@ -52,15 +52,15 @@ Because of its speed.
   - ✅ Using R functions and R code blocks in Julia
   - ✅ Using Python functions and Python code blocks in Julia
 
-- [✅ Chapter 8. Codes for plotting](https://reynards-org.gitbook.io/data-analysis-in-julia/notebooks/8.plot.and.notebooks.md)
-  - ✅ All codes used for plotting
-
-- [✅ Chapter 9. Using R and Python in Julia](https://reynards-org.gitbook.io/data-analysis-in-julia/9.performance.jl)
+- [✅ Chapter 8. Performance Optimization](https://reynards-org.gitbook.io/data-analysis-in-julia/8.performance.jl)
   - ✅ Tips for increasing the speed
   - ✅ Profiling tool and visualization
 
+- [✅ Appendix. Codes for plotting](https://reynards-org.gitbook.io/data-analysis-in-julia/notebooks/8.plot.and.notebooks.md)
+  - ✅ All codes used for plotting
 
-# License
+
+## License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
