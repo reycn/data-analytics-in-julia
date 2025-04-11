@@ -52,6 +52,13 @@ Because of its speed.
   - ✅ Using R functions and R code blocks in Julia
   - ✅ Using Python functions and Python code blocks in Julia
 
+- [✅ Chapter 8. Codes for plotting](https://reynards-org.gitbook.io/data-analysis-in-julia/notebooks/8.plot.and.notebooks.md)
+  - ✅ All codes used for plotting
+
+- [✅ Chapter 9. Using R and Python in Julia](https://reynards-org.gitbook.io/data-analysis-in-julia/9.performance.jl)
+  - ✅ Tips for increasing the speed
+  - ✅ Profiling tool and visualization
+
 
 # License
 This work is licensed under a
